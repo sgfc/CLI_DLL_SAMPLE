@@ -9,6 +9,7 @@
 int main()
 {
     int x = 5;
-    std::cout << GetDouble(x) <<std::endl;
+    std::cout << GetDouble(x) << std::endl;
+    std::cout << GetMessage() << std::endl;
 }
 
