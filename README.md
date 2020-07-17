@@ -2,7 +2,7 @@
 
   きっとまた作りたくなるので
 - Visual Studio Professional 2019 Version 16.6.4 で作った
-- C#のサンプルDLLのターゲットは .Net Starndar 2.0
+- C#のサンプルDLLのターゲットは .Net Standard 2.0
 - ラッパプロジェクトはdllとlibを両方吐くので、LoadLibraryしないでも良いやつ
 
 ### 注意点
